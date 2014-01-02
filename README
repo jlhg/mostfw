@@ -1,0 +1,5 @@
+mostfw - Print the most frequent Chinese words from the dataset(s)
+
+Usage:
+
+    $ ./mostfw.py dataset_1.txt dataset_2.txt ...
